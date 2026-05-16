@@ -1,0 +1,24 @@
+{
+    "plans_1364315218187911290": [
+        {
+            "plan_id": "1778892814283",
+            "nome": "Bot Basico",
+            "duracao": 30,
+            "descricao": "Aluguel de Bot Basico",
+            "guild_id": "1364315218187911290"
+        }
+    ],
+    "bots_1364315218187911290": [
+        {
+            "botId": "1234567890123456789",
+            "guildId": "1364315218187911290",
+            "planId": "1778892814283",
+            "planName": "Bot Basico",
+            "notes": "",
+            "addedAt": 1778892851191,
+            "expiresAt": 1781484851191,
+            "status": "ativo",
+            "owner": null
+        }
+    ]
+}
